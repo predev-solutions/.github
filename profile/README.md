@@ -1,7 +1,7 @@
 <!-- predev. Solutions — software house, Cairo -->
 <!-- ======================= HEADER ======================= -->
 <p align="center">
-  <a href="https://predevsolutions.com"><img src="assets/banner.png" alt="predev. Solutions — mobile apps, web platforms, and the brands around them" width="100%" /></a>
+  <a href="https://predevsolutions.com"><img src="assets/hero.svg" alt="predev. Solutions — mobile apps, web platforms, and the brands around them" width="100%" /></a>
 </p>
 
 <p align="center">
@@ -17,12 +17,17 @@
   <a href="https://www.instagram.com/predevsolutions/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://x.com/predevhq"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <img src="https://komarev.com/ghpvc/?username=predev-solutions&style=for-the-badge&color=7f75e8&label=Profile+views" alt="Profile views" />
+  <a href="https://github.com/predev-solutions"><img src="https://img.shields.io/github/followers/predev-solutions?label=Follow&style=for-the-badge&color=7F75E8&labelColor=0A0A0A&logo=github" alt="Follow predev on GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="assets/ticker.svg" alt="Live in production: Rakeez · Quick App · iSpeaker · Arabook · Sofqaat · Boutros Afandy · NileMed · BioTechnology Egypt" width="100%" />
 </p>
 
 <!-- ======================= ABOUT ======================= -->
 ## 🏢 About predev.
 
-<img align="right" width="290" src="assets/about.png" alt="predev. Solutions at a glance" />
+<img align="right" width="290" src="assets/about.svg" alt="predev. Solutions at a glance" />
 
 **predev. Solutions** is a Cairo software house. We plan, design and build **mobile apps, web platforms and the brands that sell them** — in Arabic and English, for companies in Egypt, Saudi Arabia, the Gulf and beyond. Strategy, design and engineering under one roof, so nothing gets lost between companies.
 
@@ -66,6 +71,12 @@
 <!-- ======================= TECH ======================= -->
 ## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,ts,js,dart,flutter,react,nextjs,vite,tailwind,nodejs,cs,dotnet,vue&perline=14&theme=dark" alt="Languages and frameworks" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase,docker,nginx,cloudflare,linux,git,github,figma,postman,androidstudio,apple&perline=14&theme=dark" alt="Data, infrastructure and tools" />
+</p>
+
 #### 💻 Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -76,18 +87,44 @@
 
 #### 🧩 Backend &amp; Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FFAB00?style=for-the-badge&logo=filament&logoColor=black)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![Sanctum](https://img.shields.io/badge/Sanctum_Auth-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Horizon](https://img.shields.io/badge/Horizon_Queues-405263?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-FFAB00?style=for-the-badge&logo=filament&logoColor=black)
 
-#### 🎨 Frontend &amp; Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+#### 🎨 Web Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
-#### 🗄️ Databases
+#### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-00B4AB?style=for-the-badge&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=for-the-badge&logo=flutter&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)
+
+#### ⚡ Realtime, Search &amp; Maps
+![Laravel Reverb](https://img.shields.io/badge/Reverb_WebSockets-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
+![Meilisearch](https://img.shields.io/badge/Meilisearch-FF5CAA?style=for-the-badge&logo=meilisearch&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![FCM](https://img.shields.io/badge/Push_Notifications-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### 💳 Payments
+![Paymob](https://img.shields.io/badge/Paymob-1A4ED8?style=for-the-badge&logo=cashapp&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
+#### 🗄️ Data
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
@@ -95,10 +132,17 @@
 
 #### ☁️ Cloud &amp; DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logo=coolify&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+#### 🧰 Design &amp; Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Claude](https://img.shields.io/badge/AI--assisted_delivery-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 <!-- ======================= PROCESS ======================= -->
 ## 🔁 How We Work
@@ -118,3 +162,9 @@
 </p>
 
 <p align="center"><i>⚡ Have a product in mind? A discovery call costs nothing and commits you to nothing.</i></p>
+
+<p align="center">
+  <b>⭐ Follow predev. on GitHub</b> — and share this page with someone who has an app idea.
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:7F75E8&height=120&section=footer&animation=twinkling" width="100%" alt="" />
