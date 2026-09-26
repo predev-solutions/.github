@@ -45,7 +45,7 @@ def hero():
 .logo{{font:700 30px 'SG',sans-serif;fill:{INK}}}
 .sub{{font:500 11px 'JB',monospace;letter-spacing:5px;fill:#8A8A8A}}
 .mark{{font:700 250px 'SG',sans-serif;fill:{INK}}}
-.in{{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}}
+.in{{animation:up .9s cubic-bezier(.2,.7,.2,1) backwards}}
 .d1{{animation-delay:.15s}}.d2{{animation-delay:.45s}}.d3{{animation-delay:.75s}}.d4{{animation-delay:1.1s}}
 @keyframes up{{from{{opacity:0;transform:translateY(18px)}}to{{opacity:1;transform:none}}}}
 .glow{{animation:glow 6s ease-in-out infinite;transform-origin:1100px 120px}}
@@ -142,7 +142,7 @@ def stats():
 .t{{font:700 26px 'SG',sans-serif;fill:{INK}}}
 .m{{font:700 34px 'SG',sans-serif;fill:{INK}}}
 .s{{font:500 10px 'JB',monospace;letter-spacing:4px;fill:#8A8A8A}}
-.in{{opacity:0;animation:up .8s cubic-bezier(.2,.7,.2,1) forwards}}
+.in{{animation:up .8s cubic-bezier(.2,.7,.2,1) backwards}}
 @keyframes up{{from{{opacity:0;transform:translateY(14px)}}to{{opacity:1;transform:none}}}}
 .glow{{animation:glow 6s ease-in-out infinite;transform-origin:520px 600px}}
 @keyframes glow{{0%,100%{{opacity:.5}}50%{{opacity:1}}}}
