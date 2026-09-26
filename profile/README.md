@@ -142,7 +142,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Claude](https://img.shields.io/badge/AI--assisted_delivery-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 <!-- ======================= PROCESS ======================= -->
 ## 🔁 How We Work
