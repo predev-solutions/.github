@@ -54,7 +54,7 @@
 <!-- ======================= SERVICES ======================= -->
 ## 🧭 What We Do
 
-| | |
+| Service | What you get |
 | --- | --- |
 | 🎯 **Product strategy** | Discovery workshops, roadmap & scope, a budget and timeline you can trust |
 | 📱 **Mobile apps** | One codebase for iPhone & Android, offline-ready, notifications, App Store & Google Play release |
