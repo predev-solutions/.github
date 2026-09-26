@@ -1,76 +1,120 @@
+<!-- predev. Solutions — software house, Cairo -->
+<!-- ======================= HEADER ======================= -->
 <p align="center">
-  <a href="https://predevsolutions.com"><img src="assets/banner.png" alt="predev. Solutions: mobile apps, web platforms, and the brands around them" width="100%"></a>
+  <a href="https://predevsolutions.com"><img src="assets/banner.png" alt="predev. Solutions — mobile apps, web platforms, and the brands around them" width="100%" /></a>
 </p>
 
 <p align="center">
-  <a href="https://predevsolutions.com"><img src="https://img.shields.io/badge/Website-predevsolutions.com-7F75E8?style=flat-square&labelColor=0A0A0A" alt="Website"></a>
-  <a href="mailto:contact@predevsolutions.com"><img src="https://img.shields.io/badge/Email-contact%40predevsolutions.com-7F75E8?style=flat-square&labelColor=0A0A0A" alt="Email"></a>
-  <a href="https://wa.me/201031112954"><img src="https://img.shields.io/badge/WhatsApp-%2B20%2010%203111%202954-7F75E8?style=flat-square&labelColor=0A0A0A" alt="WhatsApp"></a>
-  <a href="https://x.com/predevhq"><img src="https://img.shields.io/badge/X-%40predevhq-7F75E8?style=flat-square&labelColor=0A0A0A" alt="X"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7F75E8&center=true&vCenter=true&width=680&lines=Strategy+%C2%B7+Design+%C2%B7+Engineering;Mobile+apps+%C2%B7+Web+platforms+%C2%B7+Brands;Arabic+%26+English+%E2%80%94+built+for+Egypt+%26+the+Gulf" alt="Typing SVG" />
 </p>
 
-### Strategy, design and engineering under one roof.
+<!-- ======================= SOCIAL ======================= -->
+<p align="center">
+  <a href="https://predevsolutions.com"><img src="https://img.shields.io/badge/Website-7F75E8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/company/predevsolutions/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:contact@predevsolutions.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/201031112954"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://www.instagram.com/predevsolutions/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://x.com/predevhq"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <img src="https://komarev.com/ghpvc/?username=predev-solutions&style=for-the-badge&color=7f75e8&label=Profile+views" alt="Profile views" />
+</p>
 
-**predev. Solutions** is a software house in Cairo. We plan, design and build mobile apps, web platforms and the brands that sell them, in Arabic and English, for companies in Egypt, Saudi Arabia, the Gulf and beyond.
+<!-- ======================= ABOUT ======================= -->
+## 🏢 About predev.
 
-Fourteen full-time specialists: ten engineers across mobile, backend, frontend and QA, plus a brand and marketing team. Everyone on your project has shipped real products before. No trainees, no outsourcing.
+<img align="right" width="290" src="assets/about.png" alt="predev. Solutions at a glance" />
 
-| **14** full-time specialists | **8+** products live | **10** industries | **2-week** build cycles, weekly live demo |
-|:---:|:---:|:---:|:---:|
+**predev. Solutions** is a Cairo software house. We plan, design and build **mobile apps, web platforms and the brands that sell them** — in Arabic and English, for companies in Egypt, Saudi Arabia, the Gulf and beyond. Strategy, design and engineering under one roof, so nothing gets lost between companies.
 
----
+- 👥 **14 full-time specialists** — 10 engineers across mobile, backend, frontend & QA, plus a brand and marketing team
+- 🚢 **8+ products live in the market** across 10 industries — healthcare, HR, education, e-commerce, legal, real estate
+- 💳 We build the system **behind the pay button** — wallets, payouts, invoicing, Egyptian & Gulf gateways
+- 🌍 **Arabic right-to-left from day one**, not bolted on at the end
+- 🔁 **Two-week build cycles**, a live demo every week, and we stay after launch
+- 📫 **contact@predevsolutions.com** · 📍 **Cairo, Egypt** 🇪🇬
 
-### What we do
+<br clear="both" />
+
+<!-- ======================= WORK ======================= -->
+## 🚀 Selected Work — all live in production
+
+| Product | What it is |
+| --- | --- |
+| **[Rakeez](https://rakeezhr.com)** | Our own HR & payroll SaaS — location-verified attendance, payroll, commission, contracts, hiring & an employee app |
+| **[Quick App](https://quickapp-egy.com)** | Delivery marketplace — groceries, pharmacy, real estate & services with live tracking · customer, vendor & courier apps |
+| **[iSpeaker](https://ispeakerlive.com)** | Arabic-first marketplace for live rooms, courses, e-books & paid consultations with creator payouts |
+| **[Arabook](https://arabook.app)** | Arabic reading & writing app where writers earn from their stories — brand, design & mobile app |
+| **Sofqaat** | Arabic-first CRM for real-estate sales teams — pipeline, contacts, team inbox & performance dashboards |
+| **Boutros Afandy** | Legal platform connecting people with lawyers across all 27 Egyptian governorates |
+| **[NileMed](https://nilemed-egypt.com)** | Medical-equipment catalog organised by hospital department, with quote requests routed to sales |
+| **[BioTechnology Egypt](https://biotechnology-eg.com)** | Brand identity from scratch and a full website for a medical-devices company |
+
+> 📇 Live demos and client references on request — **[start a project »](https://predevsolutions.com)**
+
+<!-- ======================= SERVICES ======================= -->
+## 🧭 What We Do
 
 | | |
-|---|---|
-| **Product strategy** | Discovery workshops, roadmap and scope, a budget and timeline you can trust. |
-| **Mobile apps** | One codebase for iPhone and Android, offline support, notifications, App Store and Google Play release. |
-| **Web platforms** | Customer and admin portals, internal business systems, hosting, monitoring and backups. |
-| **UI/UX design** | Complete, consistent design, a clickable prototype before build, Arabic right-to-left from day one. |
-| **Payments & fintech** | Wallets, payouts and invoicing on Egyptian and Gulf payment gateways. |
-| **Brand & marketing** | Logo and identity, social media in Arabic and English, campaigns measured in sales. |
+| --- | --- |
+| 🎯 **Product strategy** | Discovery workshops, roadmap & scope, a budget and timeline you can trust |
+| 📱 **Mobile apps** | One codebase for iPhone & Android, offline-ready, notifications, App Store & Google Play release |
+| 🖥️ **Web platforms** | Customer & admin portals, internal business systems, hosting, monitoring & backups |
+| 🎨 **UI/UX design** | Complete design system and a clickable prototype approved before a line of code |
+| 💳 **Payments & fintech** | Wallets, payouts & invoicing on Egyptian and Gulf payment gateways |
+| 📣 **Brand & marketing** | Logo & identity, Arabic/English social, campaigns measured in sales |
 
-### Products we have shipped
+<!-- ======================= TECH ======================= -->
+## 🛠️ Tech Stack
 
-| Product | Industry | What it is |
-|---|---|---|
-| [**Rakeez**](https://rakeezhr.com) | HR & payroll · *our own product* | Multi-branch HR: location-verified attendance, payroll, commission, contracts, hiring, and an employee app. |
-| [**Quick App**](https://quickapp-egy.com) | Delivery & marketplace | Groceries, pharmacy, real estate and services with live tracking. Customer, vendor and courier apps. |
-| [**iSpeaker**](https://ispeakerlive.com) | Education | Arabic-first marketplace for live rooms, courses, e-books and paid consultations, with creator payouts. |
-| [**Arabook**](https://arabook.app) | Reading & publishing | An Arabic reading and writing app where writers earn from their stories. |
-| **Sofqaat** | Real estate CRM | Arabic-first CRM for sales teams: deal pipeline, contacts, team inbox, performance dashboards. |
-| **Boutros Afandy** | Legal services | Connects people with lawyers across all 27 Egyptian governorates, with a lawyer portal and admin panel. |
-| [**NileMed**](https://nilemed-egypt.com) | Healthcare | Medical-equipment catalog by hospital department, with quote requests routed to sales. |
-| [**BioTechnology Egypt**](https://biotechnology-eg.com) | Medical devices | Brand identity from scratch and a full website. |
+#### 💻 Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
 
-Live demos and client references on request.
+#### 🧩 Backend &amp; Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FFAB00?style=for-the-badge&logo=filament&logoColor=black)
 
-### Our stack
+#### 🎨 Frontend &amp; Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=7F75E8" alt="Flutter">
-  <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=7F75E8" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs&logoColor=7F75E8" alt="Next.js">
-  <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=7F75E8" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Laravel-0A0A0A?style=for-the-badge&logo=laravel&logoColor=7F75E8" alt="Laravel">
-  <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=7F75E8" alt="Node.js">
-  <img src="https://img.shields.io/badge/.NET-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=7F75E8" alt=".NET">
-  <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=7F75E8" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=7F75E8" alt="MySQL">
-  <img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=7F75E8" alt="Docker">
-  <img src="https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=7F75E8" alt="Figma">
-</p>
+#### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 
-### How we work
+#### ☁️ Cloud &amp; DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logo=coolify&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-1. **Discover & plan.** We learn the business, then fix scope, budget and a delivery plan.
-2. **Design.** User flows and a full clickable prototype in Arabic and English, approved before build.
-3. **Build & test.** Two-week cycles, a weekly demo on a live environment, testing throughout.
-4. **Launch & stay.** Store release, staff training, then security updates, monitoring and new features every month.
+<!-- ======================= PROCESS ======================= -->
+## 🔁 How We Work
 
----
+| 01 · Discover & plan | 02 · Design | 03 · Build & test | 04 · Launch & stay |
+| --- | --- | --- | --- |
+| We learn the business, then fix scope, budget and a delivery plan | Flows and a full clickable prototype in Arabic & English, approved by you | Two-week cycles with a weekly demo on a live environment | Store release, staff training, then updates, monitoring & new features monthly |
+
+<!-- ======================= CONNECT ======================= -->
+## 🤝 Let's Build Your Product
 
 <p align="center">
-  <b>Have a product in mind?</b> <a href="https://predevsolutions.com">Start a project</a> · <a href="mailto:contact@predevsolutions.com">contact@predevsolutions.com</a>
+  <a href="https://predevsolutions.com"><img src="https://img.shields.io/badge/Start_a_project-7F75E8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Start a project" /></a>
+  <a href="https://www.linkedin.com/company/predevsolutions/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:contact@predevsolutions.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/201031112954"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
+
+<p align="center"><i>⚡ Have a product in mind? A discovery call costs nothing and commits you to nothing.</i></p>
