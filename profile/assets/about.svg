@@ -6,7 +6,7 @@
 .t{font:700 26px 'SG',sans-serif;fill:#F8F8F6}
 .m{font:700 34px 'SG',sans-serif;fill:#F8F8F6}
 .s{font:500 10px 'JB',monospace;letter-spacing:4px;fill:#8A8A8A}
-.in{animation:up .8s cubic-bezier(.2,.7,.2,1) backwards}
+.in{}
 @keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
 .glow{animation:glow 6s ease-in-out infinite;transform-origin:520px 600px}
 @keyframes glow{0%,100%{opacity:.5}50%{opacity:1}}
