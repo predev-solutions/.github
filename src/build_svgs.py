@@ -172,6 +172,6 @@ def stats():
 if __name__ == "__main__":
     OUT.mkdir(parents=True, exist_ok=True)
     for name, fn in [("hero", hero), ("ticker", ticker), ("about", stats)]:
-        p = OUT / f"{name}.svg"
+        p = OUT / f"{name}-v2.svg"
         p.write_text(fn())
         print(p.name, p.stat().st_size)

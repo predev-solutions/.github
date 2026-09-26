@@ -1,7 +1,7 @@
 <!-- predev. Solutions — software house, Cairo -->
 <!-- ======================= HEADER ======================= -->
 <p align="center">
-  <a href="https://predevsolutions.com"><img src="assets/hero.svg" alt="predev. Solutions — mobile apps, web platforms, and the brands around them" width="100%" /></a>
+  <a href="https://predevsolutions.com"><img src="assets/hero-v2.svg" alt="predev. Solutions — mobile apps, web platforms, and the brands around them" width="100%" /></a>
 </p>
 
 <p align="center">
@@ -21,13 +21,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/ticker.svg" alt="Live in production: Rakeez · Quick App · iSpeaker · Arabook · Sofqaat · Boutros Afandy · NileMed · BioTechnology Egypt" width="100%" />
+  <img src="assets/ticker-v2.svg" alt="Live in production: Rakeez · Quick App · iSpeaker · Arabook · Sofqaat · Boutros Afandy · NileMed · BioTechnology Egypt" width="100%" />
 </p>
 
 <!-- ======================= ABOUT ======================= -->
 ## 🏢 About predev.
 
-<img align="right" width="290" src="assets/about.svg" alt="predev. Solutions at a glance" />
+<img align="right" width="290" src="assets/about-v2.svg" alt="predev. Solutions at a glance" />
 
 **predev. Solutions** is a Cairo software house. We plan, design and build **mobile apps, web platforms and the brands that sell them** — in Arabic and English, for companies in Egypt, Saudi Arabia, the Gulf and beyond. Strategy, design and engineering under one roof, so nothing gets lost between companies.
 
