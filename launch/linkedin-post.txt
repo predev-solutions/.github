@@ -1,0 +1,24 @@
+Every Egyptian developer has written this regex at least once.
+
+Is this a real national ID? Is 010 or 015 a valid mobile prefix? What if the user types the number in Arabic digits, or with +20, or with dashes? Which governorate is code 21?
+
+We got tired of rewriting it in every project, so we open-sourced it.
+
+egypt-validators is a small PHP package, with ready-made Laravel rules, that does it once and properly:
+
+- Validates Egyptian national IDs and reads the birth date, age, governorate and gender from them
+- Rejects impossible dates, leap-year mistakes and unknown governorate codes
+- Normalizes mobile numbers in any format, including Arabic digits, +20 and 0020
+- Tells you the carrier: Vodafone, e&, Orange or WE
+- All 27 governorates in Arabic and English
+- Laravel rules like EgyptianNationalId::make()->minAge(21)
+
+45 tests, MIT licensed, free to use in commercial projects.
+
+composer require predev-solutions/egypt-validators
+
+github.com/predev-solutions/egypt-validators
+
+If it saves you an afternoon, a star on GitHub helps other Egyptian devs find it. Pull requests are welcome too, especially for landlines, tax IDs and commercial registry numbers.
+
+#Laravel #PHP #OpenSource #Egypt #WebDevelopment #مصر
